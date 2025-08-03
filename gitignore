@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.env/
+.venv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Python metadata
+*.egg-info/
+
+# macOS
+.DS_Store
+
+# Streamlit logs
+.streamlit/
+
+# Data files
+*.csv
+*.json
